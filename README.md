@@ -14,7 +14,7 @@ This repo contains a number of versions of the JavaScript file `index.js`. The o
 
 A subsequent revisit of the code after the lecture suggested that it could be improved from its initial live-coded form. This was done through a series of refactorings (`index1.js` ... `index5.js`), where each intermediate refactoring brought insights for a further refactoring until reaching the final form in `index5.js`.
 
-In `index6.js` a alternate version is given that replaces the `$.getJSON()` function with a custom function `getJSON()` that uses `XMLHttpRequest` and return an ES6 promise.
+In `index6.js` an alternate version is given that replaces the `$.getJSON()` function with a custom function `getJSON()` that uses `XMLHttpRequest` and returns an ES6 promise.
 
-To run the code with a particular version of `index.js`, please change `index.html` to load the appropiate version in the `script` tag.
+To run the code with a particular version of `index.js`, please change `index.html` to load the appropriate version in the `script` tag.
 
